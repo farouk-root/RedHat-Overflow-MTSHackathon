@@ -1,0 +1,46 @@
+*{
+    font-family: 'Cabin', sans-serif;
+}
+#resumetemp{
+    /* max-width: 500px; */
+    display: none;
+}
+
+body{
+   
+    font-weight: 700;
+}
+#resumeform{
+    /* display: none; */
+}
+/* #projj{
+    display: none;
+} */
+.star{
+    color: rgba(255, 0, 0, 0.829);
+}
+.background, #bg{
+    background-color: #f5f5f5;
+}
+#intro{
+    margin-top: 1rem;
+    background-color:#f2e6ff;
+}
+#contact{
+    background-color:#d9e6f2;
+   margin: auto;
+}
+#page{
+    background-color:#f2e6ff;
+}
+.point{
+    color: red;
+    padding-top: 3px;
+    font-size: 1.5rem;
+}
+.edu{
+    font-size:1.2rem ;
+}
+#namet{
+    font-family: 'Merriweather', serif;
+}
